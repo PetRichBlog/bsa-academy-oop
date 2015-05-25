@@ -1,0 +1,12 @@
+{
+    "name": "m1x0n/bsa-academy-oop",
+    "description": "OOP Lecture for BSA Academy 2015",
+    "authors": [
+        {
+            "name": "m1x0n",
+            "email": "mmorozovm@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
