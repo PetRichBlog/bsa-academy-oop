@@ -1,0 +1,3 @@
+<?php
+
+    $human = new stdClass();
