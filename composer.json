@@ -10,5 +10,8 @@
     "minimum-stability": "stable",
     "autoload": {
         "classmap": ["src/"]
+    },
+    "require": {
+        "pimple/pimple": "~3.0"
     }
 }
